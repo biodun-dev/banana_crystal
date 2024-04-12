@@ -53,7 +53,7 @@ The Payment Processor is a Ruby application designed to process payment data fro
     Example:
 
     ```bash
-    ruby payment_processor.rb data/input.csv
+    ruby payment_processor.rb inputs.csv
     ```
 
 3. View the generated report.
